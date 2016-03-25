@@ -10,6 +10,12 @@
     overflow: clip;
 }
 
+.DotaLoadingIcon
+{
+	horizontal-align: center;
+	vertical-align: center;
+}
+
 #GameModeDescription
 {
     font-size: 27px;

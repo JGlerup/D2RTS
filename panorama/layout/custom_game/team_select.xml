@@ -37,7 +37,7 @@
 						<Label id="GameModeNameLabel" text="D2RTS" />
 					</Panel>
 					<Panel id="MapInfo">
-						<Label id="MapInfoLabel" text="Info om map" />
+						<Label id="MapInfoLabel" text="An RTS gamemode for dota 2" />
 					</Panel>
 					
 					<!--Countdown timer-->
